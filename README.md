@@ -1,7 +1,7 @@
-# grin-mnemonic-tools 
-This will be a set of fun tools for advanced grin users only, use at your own risk.
+# grin-mnemonic-tools <br>
+This will be a set of fun tools for advanced grin users only, use at your own risk.<br>
 -> Very much in development no existing code yet
-grin-mnemonic-tools is a set of small scripts to:
+grin-mnemonic-tools is a set of small scripts to:<br>
 * grin-brainwallet: Generate a grin wallet based on a string you can remember in your brain [Warning! not very secure],
   * optionally add BIP38 password protection
 * grin-voucher: A tool to create or import grin vouchers or brainwallets
