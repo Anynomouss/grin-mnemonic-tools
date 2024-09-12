@@ -3,8 +3,8 @@ This will be a set of fun tools for advanced grin users only, use at your own ri
 -> Very much in development no existing code yet
 grin-mnemonic-tools is a set of small scripts to:<br>
 * **grin-brainwallet**: Generate a grin wallet based on a string you can remember in your brain [Warning! not very secure],
-  * optionally add BIP38 password protection
-  * Optionally add option to export as wallet or QR/voucher
+  * optional second secret for BIP38 password protection
+  * Export as wallet or QR (SeedSigner)
 * **grin-voucher**: A tool to create or import grin vouchers or brainwallets
   * Generate a voucher wallet to send to either based on random mnemonic or specified brainwallet string
   * Scan/import a wallet/voucher, generate slatepack to send/import to any grin wallet
